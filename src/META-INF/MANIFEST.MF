@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: geekbrains.lesson6.catch_the_drop2.GameWindow
+
